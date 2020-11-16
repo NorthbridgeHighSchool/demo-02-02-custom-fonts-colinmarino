@@ -1,12 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
+html{
+background-color: rgba(199, 231, 220, 0.795);
+}
 h1{
-  font-family: "Big Shoulders Inline Display";
+  font-family: 'Raleway', sans-serif;
 }
 h2{
-
+  font-family: 'Shadows Into Light', cursive;
 }
 p{
-  font-family: "Architects Daughter";
+  font-family: "Architects Daughter", cursive;
 }
